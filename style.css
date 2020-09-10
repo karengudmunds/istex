@@ -17,7 +17,7 @@
 }
 
  .banner-with-header {
-   background-image: url('/images/Copyright_Karen_9W3A8564.jpg');
+   background-image: url('/images/istexblanket.jpeg');
    background-size: cover;
    background-position: center;
    min-height: 80vh;
@@ -399,7 +399,7 @@
 
    .banner,
    .banner-with-header {
-     background-image: url('/images/Mdesign.jpeg');
+     background-image: url('/images/istexblanket.jpeg');
      background-size: cover;
      background-position: 50% 10%;
      min-height: 100vh;
@@ -422,8 +422,9 @@
    }
 
    .banner-kyana {
-     background-image: url('/images/KyanaSue.jpeg');
+     background-image: url('/images/kyanaport.38.18.jpeg');
      background-size: cover;
+     background-position: 50% 70%;
      min-height: 80vh;
    }
 
